@@ -1,2 +1,1 @@
-# pandas
-Python pandas cheatsheet
+# Cheatsheet for python pandas
